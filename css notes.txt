@@ -1,0 +1,24 @@
+######### CSS CRASH COURSE ########
+
+# Flex
+
+- Flex properties
+-Axes
+
+
+Justify content - is always in the main axis.
+Align content - is always in the cross axis.
+
+flex-shrink
+flex-basis
+flex-grow
+
+//important
+*flex: grow shrink basis
+
+	flex: 1 0 100px	
+		or  
+	flex: 1
+
+
+	
