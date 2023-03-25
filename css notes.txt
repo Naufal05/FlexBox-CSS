@@ -7,7 +7,7 @@
 
 
 Justify content - is always in the main axis.
-Align content - is always in the cross axis.
+Align contnt - is always in the cross axis.
 
 flex-shrink
 flex-basis
